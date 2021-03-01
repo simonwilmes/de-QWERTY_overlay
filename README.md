@@ -1,6 +1,8 @@
 # de-QWERTZ_overlay
+## Funktionsweise
+Stellt eine weitere Ebene auf der Tastatur zur verfügung, die über ("Tab" & "#") erreicht wird. Das Layout
+## Installation Windows
 
-## Installation
 1. Lade die Datei mit dem Namen „QWERTZ-overlay.ahk“ herunter.
 2. Gehe auf die Webseite von [Auto Hotkey](https://www.autohotkey.com/)
 und installiere die Software.

@@ -19,27 +19,27 @@ remove Lock = Caps_Lock
 
 
 
-keycode  24 = q Q at at at 
+keycode  24 = q Q U2026 U2026 at 
 keycode  25 = w W underscore 
-keycode  26 = e E bracketleft E Up
+keycode  26 = e E bracketleft E Up 
 keycode  27 = r R bracketright
 keycode  28 = t T asciicircum 
-keycode  29 = z Z exclam Y leftarrow
-keycode  30 = u U less 7 downarrow
-keycode  31 = i I greater 8 rightarrow
-keycode  32 = o O equal 9 
+keycode  29 = z Z exclam Y
+keycode  30 = u U less less 7 
+keycode  31 = i I greater greater  8 
+keycode  32 = o O equal equal 9 
 keycode  33 = p P ampersand
 keycode  34 = udiaeresis Udiaeresis bracketleft braceleft 
 keycode  35 = ISO_Level3_Shift 
-keycode  38 = a A backslash 
+keycode  38 = a A backslash  NoSymbol Home
 keycode  39 = s S slash S Left
 keycode  40 = d D braceleft D Down
 keycode  41 = f F braceright F Right
-keycode  42 = g G asterisk
-keycode  43 = h H question
-keycode  44 = j J parenleft 4
-keycode  45 = k K parenright 5
-keycode  46 = l L minus 6
+keycode  42 = g G asterisk NoSymbol End
+keycode  43 = h H question question 
+keycode  44 = j J parenleft parenleft 4
+keycode  45 = k K parenright parenright 5
+keycode  46 = l L minus minus 6
 keycode  47 = odiaeresis Odiaeresis colon semicolon
 keycode  48 = adiaeresis Adiaeresis at quotedbl 
 keycode  49 = dead_circumflex degree grave asciitilde
@@ -48,11 +48,12 @@ keycode  52 = y Y numbersign
 keycode  53 = x X dollar
 keycode  54 = c C bar 
 keycode  55 = v V asciitilde
+keycode  56 = b B U2019 
 keycode  57 = n N plus
-keycode  58 = m M percent 1
-keycode  59 = comma semicolon quotedbl 2 
-keycode  60 = period colon apostrophe 3
-keycode  61 = minus underscore semicolon
+keycode  58 = m M percent percent 1
+keycode  59 = comma semicolon quotedbl quotedbl 2 
+keycode  60 = period colon apostrophe apostrophe 3
+keycode  61 = minus underscore semicolon 
 keycode  65 = space NoSymbol space 0
 
 
@@ -62,3 +63,4 @@ keycode  66 = Mode_switch NoSymbol Caps_Lock
 keycode  51 = Mode_switch
 ! ALT KEY
 keycode 108 = ISO_Level3_Shift NoSymbol ISO_Level3_Shift
+keycode 94 = ISO_Level3_Shift NoSymbol ISO_Level3_Shift
